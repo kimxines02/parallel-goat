@@ -7,7 +7,7 @@ Stackbit Azimuth Theme original README is located [here](./README.theme.md).
 # Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
-
+ 
 1. Install npm dependencies:
 
         npm install
